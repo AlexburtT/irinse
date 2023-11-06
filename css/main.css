@@ -47,7 +47,7 @@ body {
     top: 0;
     left: 0;
     width: 100%;
-    padding: 2rem 9%;
+    padding: 1rem 9%;
     background-color: var(--blue-90);
     display: flex;
     justify-content: space-between;
